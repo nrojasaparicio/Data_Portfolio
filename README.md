@@ -6,7 +6,7 @@ Hi, all. I'm Nicole Rojas Aparicio. I have a Bachelor's Degree in Political Scie
 
 ## Projects 
 - [SQL Projects](https://github.com/nrojasaparicio/Data_Portfolio/tree/main/SQL%20Projects)
-- Python Projects 
+- [Python Projects](https://github.com/nrojasaparicio/Data_Portfolio/tree/main/Python%20Projects) 
 
 ## Contact Information 
 | | | |
