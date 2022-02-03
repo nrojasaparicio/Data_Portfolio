@@ -12,4 +12,4 @@ Hi, all. I'm Nicole Rojas-Aparicio. I decided to dive into data analytics/data s
 | | | |
 |-|-|-|
 |**LinkedIn** | https://www.linkedin.com/in/nicole-rojas/ |
-|**Email** | nicole.rojas223@gmail.com |
+|**Email** | nicole.rojas223@outlook.com |
