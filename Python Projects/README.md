@@ -8,3 +8,6 @@
   
 - [**Star Wars Movies Analysis**](https://github.com/nrojasaparicio/Data_Portfolio/blob/main/Python%20Projects/StarWarsAnalysisProject.ipynb)
   In this project, I analyze FiveThirtyEight's dataset on a Star Wars survey. NumPy, Pandas, Matplotlib and seaborn are included in the project. 
+  
+-[**Analyzing 2019 Citibike Rides**](https://github.com/nrojasaparicio/Data_Portfolio/blob/main/Python%20Projects/StarWarsAnalysisProject.ipynb)
+  This exploratory data analysis was conducted as a part of my DS4A Capstone project analyzing NYC's accidents and transportation accessibility.
