@@ -1,6 +1,6 @@
 # Python Projects
 
-- [**Analyzing the Relationship Between Car Accidents and Public Transportation in NYC - DS4A Capstone Project**](https://github.com/nrojasaparicio/Data_Portfolio/blob/main/Python%20Projects/Analyzing%202019%20Citibike%20Rides.ipynb) 
+- [**Analyzing the Relationship Between Car Accidents and Public Transportation in NYC - DS4A Capstone Project**](https://github.com/nrojasaparicio/Data_Portfolio/tree/main/Python%20Projects/DS4A%20Capstone%20Project) 
 I was selected to be a DS4A (Data Science for All) Fellow in Oct 2021. In this fellowship, I participated in a semester-long capstone project where we sought to find if there is a relationship between the prevalence of motor vehicle accidents and transportation accessibility in New York City. Python libraries used for analysis and modeling include pandas, seaborn, matplotlib, numpy, scipy and statsmodel. We utilized Tableau as our dashboarding tool. This capstone project includes a recorded presentation, Tableau Public dahsboard, report and our code. 
 
 - [**Star Wars Movies Analysis**](https://github.com/nrojasaparicio/Data_Portfolio/blob/main/Python%20Projects/StarWarsAnalysisProject.ipynb)
