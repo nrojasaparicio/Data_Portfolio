@@ -7,3 +7,4 @@
 
 ## Coding
 - [**Citibike Analysis**](https://github.com/nrojasaparicio/Data_Portfolio/tree/main/Python%20Projects/DS4A%20Capstone%20Project/Citibike%20Analysis)
+- [**Motor Vehicle Accidents**](https://github.com/nrojasaparicio/Data_Portfolio/blob/main/Motor_Vehicle_Accidents_DS_Project.ipynb)
